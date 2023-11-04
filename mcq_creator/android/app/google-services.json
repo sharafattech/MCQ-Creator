@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968722520544",
+    "project_id": "mcq-creator-98d8d",
+    "storage_bucket": "mcq-creator-98d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968722520544:android:0e0b57fbf7d4394348b385",
+        "android_client_info": {
+          "package_name": "com.example.mcq_creator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZNP4KWujgPJ1kJbpeIvROczclGnCcjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
